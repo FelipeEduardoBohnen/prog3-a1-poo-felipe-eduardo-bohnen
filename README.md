@@ -1,7 +1,9 @@
 📂 PROJETO A1 – Programação III
 
 Turma: 5a Fase - Ciência da Computação - UNOESC
+
 Professor: Leandro Otavio Cordova Vieira
+
 
 📄 Descrição do Projeto
 Este projeto foi desenvolvido como parte da atividade A1 da disciplina de Programação III. A aplicação foi criada utilizando PHP puro com orientação a objetos, atendendo aos seguintes requisitos:
